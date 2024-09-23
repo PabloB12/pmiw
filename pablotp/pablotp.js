@@ -1,3 +1,4 @@
+//Video Explicativo: https://youtu.be/wNEeYyMon4A.
 let img;
 let imgX = 0;
 let imgY = 0;
